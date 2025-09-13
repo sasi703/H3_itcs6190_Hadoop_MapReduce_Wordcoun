@@ -1,0 +1,4 @@
+Cloud computing for data analysis
+Cloud computing is powerful
+Hadoop MapReduce for data processing
+Big data analysis with Hadoop
